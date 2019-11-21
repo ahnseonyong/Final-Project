@@ -1,4 +1,4 @@
-#!/home/robot/.pyenv/versions/ros_py36/bin/python
+#!/home/robot/.pyenv/versions/rospy_365/bin/python
 
 import rospy
 from geometry_msgs.msg import Twist
